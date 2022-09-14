@@ -17,6 +17,8 @@ layout: cover
 <i>Streamline and Simplify complex git processes</i>
 
 ###### ver ^0.30.1
+##### [HGit](https://github.com/metaory/hgit-cli/)
+
 ##### [slides link](https://metaory.github.io/hgit-talk/)
 
 ---
@@ -31,7 +33,7 @@ layout: cover
 # [github.com/metaory](https://github.com/metaory/)
 
 ### JS, Lua, Shell, Vim, Linux lover
-## Developer Advocate
+## Principal Engineer
 
 ######  DevOps at Respond.io
 
