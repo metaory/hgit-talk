@@ -78,3 +78,10 @@ layout: quote
 ---
 
 # Conflicts
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+# Dynamic Branch Name
