@@ -42,7 +42,14 @@ titleHeader: HGit
 layout: quote
 ---
 
-# No  `Git`
+# Keep Processes Complex but easy
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+# Streamline Complex git Processes for the entire team
 
 ---
 titleHeader: HGit
@@ -64,6 +71,13 @@ layout: quote
 ---
 
 # No  `Config`
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+# Dynamic  `Commands`
 
 ---
 titleHeader: HGit
