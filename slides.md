@@ -42,7 +42,7 @@ titleHeader: HGit
 layout: quote
 ---
 
-### :rocket: an unopinionated git workflow **engine**
+###  an unopinionated git workflow **engine**
 
 ---
 titleHeader: HGit
