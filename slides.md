@@ -42,42 +42,35 @@ titleHeader: HGit
 layout: quote
 ---
 
-###  an unopinionated git workflow **engine**
+### an unopinionated workflow `engine`
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-### entirely `config` based workflows 
+### entirely `config` based workflows
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-# Keep Processes Complex but easy
+# Keep Processes Complex but easy for developers
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-# Streamline Complex git Processes for the entire team
+# Streamline Complex Processes for the entire team
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-# Dirty `Git`
-
----
-titleHeader: HGit
-layout: quote
----
-
-# Bad  `Config`
+# Confirm prompts 
 
 ---
 titleHeader: HGit
