@@ -56,14 +56,14 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Keep Processes Complex but easy for developers
+# Keep Processes Complex but `easy` for developers
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-# Streamline Complex Processes for the entire team
+# Streamline `Complex` Processes for the entire team
 
 ---
 titleHeader: HGit
@@ -77,14 +77,14 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Dynamic Branch Name
+# Dynamic `Branch Name`
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-# Confirm prompts
+# Confirm `Prompts`
 
 ---
 titleHeader: HGit
@@ -98,11 +98,11 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Unopinionated Workflows
+# Unopinionated `Workflows`
 
 ---
 titleHeader: HGit
 layout: quote
 ---
 
-# Conflicts
+# Conflicts Detection
