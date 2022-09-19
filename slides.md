@@ -42,6 +42,20 @@ titleHeader: HGit
 layout: quote
 ---
 
+### :rocket: an unopinionated git workflow **engine**
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+### entirely `config` based workflows 
+
+---
+titleHeader: HGit
+layout: quote
+---
+
 # Keep Processes Complex but easy
 
 ---
