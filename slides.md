@@ -63,7 +63,9 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Streamline `Complex` Processes for the entire team
+# Streamline `Complex` Processes
+
+### for the entire team
 
 ---
 titleHeader: HGit
