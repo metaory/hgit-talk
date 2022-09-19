@@ -70,20 +70,6 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Confirm prompts 
-
----
-titleHeader: HGit
-layout: quote
----
-
-# No  `Config`
-
----
-titleHeader: HGit
-layout: quote
----
-
 # Dynamic  `Commands`
 
 ---
@@ -91,7 +77,28 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Workflows
+# Dynamic Branch Name
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+# Confirm prompts
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+# No/Old/Bad  `Config`
+
+---
+titleHeader: HGit
+layout: quote
+---
+
+# Unopinionated Workflows
 
 ---
 titleHeader: HGit
@@ -99,10 +106,3 @@ layout: quote
 ---
 
 # Conflicts
-
----
-titleHeader: HGit
-layout: quote
----
-
-# Dynamic Branch Name
