@@ -56,7 +56,9 @@ titleHeader: HGit
 layout: quote
 ---
 
-# Keep Processes Complex but `easy` for developers
+# Keep Processes Complex
+
+### but `easy` for developers
 
 ---
 titleHeader: HGit
